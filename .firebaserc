@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "jyprcini"
+  },
+  "targets": {
+    "jyprcini": {
+      "hosting": {
+        "verse25": [
+          "verse25"
+        ]
+      }
+    }
+  }
+}
